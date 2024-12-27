@@ -1,0 +1,571 @@
+2024-12-26 23:49:34,149 - INFO - Login successful!
+2024-12-26 23:49:34,218 - INFO - Successfully fetched fuel market page!
+2024-12-26 23:49:34,218 - INFO - Fuel Timer (seconds): 626
+2024-12-26 23:49:34,218 - INFO - Fuel Prices: ['1550', '710', '1960', '2020', '740', '1990', '1160', '600', '960', '950']
+2024-12-26 23:49:34,218 - INFO - Last Fuel Price: 950
+2024-12-26 23:49:34,283 - INFO - Successfully fetched CO2 market page!
+2024-12-26 23:49:34,283 - INFO - CO2 Prices: ['118', '188', '106', '166', '119', '149', '100', '110', '133', '172']
+2024-12-26 23:49:34,283 - INFO - Last CO2 Price: 172
+2024-12-26 23:49:34,283 - INFO - Sleeping for 631 seconds until the next refresh...
+2024-12-27 00:00:05,519 - INFO - Successfully fetched fuel market page!
+2024-12-27 00:00:05,519 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 00:00:05,519 - INFO - Fuel Prices: ['710', '1960', '2020', '740', '1990', '1160', '600', '960', '950', '940']
+2024-12-27 00:00:05,519 - INFO - Last Fuel Price: 940
+2024-12-27 00:00:05,588 - INFO - Successfully fetched CO2 market page!
+2024-12-27 00:00:05,589 - INFO - CO2 Prices: ['188', '106', '166', '119', '149', '100', '110', '133', '172', '144']
+2024-12-27 00:00:05,589 - INFO - Last CO2 Price: 144
+2024-12-27 00:00:05,589 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 00:30:05,847 - INFO - Successfully fetched fuel market page!
+2024-12-27 00:30:05,847 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 00:30:05,847 - INFO - Fuel Prices: ['1960', '2020', '740', '1990', '1160', '600', '960', '950', '940', '920']
+2024-12-27 00:30:05,847 - INFO - Last Fuel Price: 920
+2024-12-27 00:30:05,913 - INFO - Successfully fetched CO2 market page!
+2024-12-27 00:30:05,913 - INFO - CO2 Prices: ['106', '166', '119', '149', '100', '110', '133', '172', '144', '186']
+2024-12-27 00:30:05,913 - INFO - Last CO2 Price: 186
+2024-12-27 00:30:05,913 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 01:00:06,194 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:00:06,195 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 01:00:06,195 - INFO - Fuel Prices: ['2020', '740', '1990', '1160', '600', '960', '950', '940', '920', '1400']
+2024-12-27 01:00:06,195 - INFO - Last Fuel Price: 1400
+2024-12-27 01:00:06,262 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:00:06,262 - INFO - CO2 Prices: ['166', '119', '149', '100', '110', '133', '172', '144', '186', '144']
+2024-12-27 01:00:06,262 - INFO - Last CO2 Price: 144
+2024-12-27 01:00:06,262 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 01:30:05,547 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:30:05,547 - WARNING - Could not find fuel market data.
+2024-12-27 01:30:05,616 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:30:05,616 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:30:05,616 - INFO - Last CO2 Price: 192
+2024-12-27 01:30:05,616 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:31:05,694 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:31:05,695 - WARNING - Could not find fuel market data.
+2024-12-27 01:31:05,761 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:31:05,761 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:31:05,761 - INFO - Last CO2 Price: 192
+2024-12-27 01:31:05,762 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:32:05,836 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:32:05,836 - WARNING - Could not find fuel market data.
+2024-12-27 01:32:05,902 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:32:05,902 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:32:05,902 - INFO - Last CO2 Price: 192
+2024-12-27 01:32:05,902 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:33:05,971 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:33:05,972 - WARNING - Could not find fuel market data.
+2024-12-27 01:33:06,040 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:33:06,040 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:33:06,040 - INFO - Last CO2 Price: 192
+2024-12-27 01:33:06,040 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:34:06,116 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:34:06,116 - WARNING - Could not find fuel market data.
+2024-12-27 01:34:06,185 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:34:06,185 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:34:06,185 - INFO - Last CO2 Price: 192
+2024-12-27 01:34:06,185 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:35:06,276 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:35:06,276 - WARNING - Could not find fuel market data.
+2024-12-27 01:35:06,346 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:35:06,346 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:35:06,346 - INFO - Last CO2 Price: 192
+2024-12-27 01:35:06,346 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:36:06,413 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:36:06,413 - WARNING - Could not find fuel market data.
+2024-12-27 01:36:06,478 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:36:06,478 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:36:06,478 - INFO - Last CO2 Price: 192
+2024-12-27 01:36:06,478 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:37:06,548 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:37:06,548 - WARNING - Could not find fuel market data.
+2024-12-27 01:37:06,619 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:37:06,619 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:37:06,619 - INFO - Last CO2 Price: 192
+2024-12-27 01:37:06,619 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:38:06,689 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:38:06,689 - WARNING - Could not find fuel market data.
+2024-12-27 01:38:06,757 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:38:06,757 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:38:06,757 - INFO - Last CO2 Price: 192
+2024-12-27 01:38:06,757 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:39:06,831 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:39:06,832 - WARNING - Could not find fuel market data.
+2024-12-27 01:39:06,898 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:39:06,898 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:39:06,898 - INFO - Last CO2 Price: 192
+2024-12-27 01:39:06,898 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:40:06,969 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:40:06,970 - WARNING - Could not find fuel market data.
+2024-12-27 01:40:07,036 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:40:07,037 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:40:07,037 - INFO - Last CO2 Price: 192
+2024-12-27 01:40:07,037 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:41:07,140 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:41:07,140 - WARNING - Could not find fuel market data.
+2024-12-27 01:41:07,233 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:41:07,233 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:41:07,234 - INFO - Last CO2 Price: 192
+2024-12-27 01:41:07,234 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:42:07,306 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:42:07,306 - WARNING - Could not find fuel market data.
+2024-12-27 01:42:07,384 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:42:07,385 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:42:07,385 - INFO - Last CO2 Price: 192
+2024-12-27 01:42:07,385 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:43:07,454 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:43:07,454 - WARNING - Could not find fuel market data.
+2024-12-27 01:43:07,533 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:43:07,533 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:43:07,533 - INFO - Last CO2 Price: 192
+2024-12-27 01:43:07,533 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:44:07,602 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:44:07,602 - WARNING - Could not find fuel market data.
+2024-12-27 01:44:07,669 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:44:07,670 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:44:07,670 - INFO - Last CO2 Price: 192
+2024-12-27 01:44:07,670 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:45:07,902 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:45:07,903 - WARNING - Could not find fuel market data.
+2024-12-27 01:45:07,993 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:45:07,993 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:45:07,993 - INFO - Last CO2 Price: 192
+2024-12-27 01:45:07,993 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:46:08,073 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:46:08,073 - WARNING - Could not find fuel market data.
+2024-12-27 01:46:08,141 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:46:08,141 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:46:08,141 - INFO - Last CO2 Price: 192
+2024-12-27 01:46:08,141 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:47:08,219 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:47:08,220 - WARNING - Could not find fuel market data.
+2024-12-27 01:47:08,293 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:47:08,293 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:47:08,293 - INFO - Last CO2 Price: 192
+2024-12-27 01:47:08,293 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:48:08,368 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:48:08,368 - WARNING - Could not find fuel market data.
+2024-12-27 01:48:08,439 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:48:08,439 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:48:08,439 - INFO - Last CO2 Price: 192
+2024-12-27 01:48:08,439 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:49:08,545 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:49:08,545 - WARNING - Could not find fuel market data.
+2024-12-27 01:49:08,634 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:49:08,634 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:49:08,634 - INFO - Last CO2 Price: 192
+2024-12-27 01:49:08,634 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:50:08,708 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:50:08,708 - WARNING - Could not find fuel market data.
+2024-12-27 01:50:08,776 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:50:08,777 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:50:08,777 - INFO - Last CO2 Price: 192
+2024-12-27 01:50:08,777 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:51:09,042 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:51:09,042 - WARNING - Could not find fuel market data.
+2024-12-27 01:51:09,130 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:51:09,130 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:51:09,131 - INFO - Last CO2 Price: 192
+2024-12-27 01:51:09,131 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:52:09,201 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:52:09,201 - WARNING - Could not find fuel market data.
+2024-12-27 01:52:09,280 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:52:09,281 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:52:09,281 - INFO - Last CO2 Price: 192
+2024-12-27 01:52:09,281 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:53:09,613 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:53:09,613 - WARNING - Could not find fuel market data.
+2024-12-27 01:53:09,682 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:53:09,682 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:53:09,682 - INFO - Last CO2 Price: 192
+2024-12-27 01:53:09,683 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:54:09,757 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:54:09,757 - WARNING - Could not find fuel market data.
+2024-12-27 01:54:09,834 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:54:09,834 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:54:09,834 - INFO - Last CO2 Price: 192
+2024-12-27 01:54:09,834 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:55:09,956 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:55:09,956 - WARNING - Could not find fuel market data.
+2024-12-27 01:55:10,027 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:55:10,028 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:55:10,028 - INFO - Last CO2 Price: 192
+2024-12-27 01:55:10,028 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:56:10,103 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:56:10,103 - WARNING - Could not find fuel market data.
+2024-12-27 01:56:10,171 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:56:10,171 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:56:10,172 - INFO - Last CO2 Price: 192
+2024-12-27 01:56:10,172 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:57:10,248 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:57:10,248 - WARNING - Could not find fuel market data.
+2024-12-27 01:57:10,317 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:57:10,317 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:57:10,318 - INFO - Last CO2 Price: 192
+2024-12-27 01:57:10,318 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:58:10,394 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:58:10,394 - WARNING - Could not find fuel market data.
+2024-12-27 01:58:10,479 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:58:10,479 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:58:10,479 - INFO - Last CO2 Price: 192
+2024-12-27 01:58:10,479 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 01:59:10,548 - INFO - Successfully fetched fuel market page!
+2024-12-27 01:59:10,548 - WARNING - Could not find fuel market data.
+2024-12-27 01:59:10,618 - INFO - Successfully fetched CO2 market page!
+2024-12-27 01:59:10,618 - INFO - CO2 Prices: ['119', '149', '100', '110', '133', '172', '144', '186', '144', '192']
+2024-12-27 01:59:10,618 - INFO - Last CO2 Price: 192
+2024-12-27 01:59:10,619 - INFO - Sleeping for 60 seconds until the next refresh...
+2024-12-27 02:00:10,698 - INFO - Successfully fetched fuel market page!
+2024-12-27 02:00:10,698 - INFO - Fuel Timer (seconds): 1790
+2024-12-27 02:00:10,698 - INFO - Fuel Prices: ['1990', '1160', '600', '960', '950', '940', '920', '1400', '1460', '1450']
+2024-12-27 02:00:10,698 - INFO - Last Fuel Price: 1450
+2024-12-27 02:00:10,767 - INFO - Successfully fetched CO2 market page!
+2024-12-27 02:00:10,768 - INFO - CO2 Prices: ['149', '100', '110', '133', '172', '144', '186', '144', '192', '104']
+2024-12-27 02:00:10,768 - INFO - Last CO2 Price: 104
+2024-12-27 02:00:10,860 - INFO - Message sent successfully!
+2024-12-27 02:00:10,860 - INFO - Sleeping for 1795 seconds until the next refresh...
+2024-12-27 02:30:06,119 - INFO - Successfully fetched fuel market page!
+2024-12-27 02:30:06,119 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 02:30:06,119 - INFO - Fuel Prices: ['1160', '600', '960', '950', '940', '920', '1400', '1460', '1450', '800']
+2024-12-27 02:30:06,119 - INFO - Last Fuel Price: 800
+2024-12-27 02:30:06,190 - INFO - Successfully fetched CO2 market page!
+2024-12-27 02:30:06,191 - INFO - CO2 Prices: ['100', '110', '133', '172', '144', '186', '144', '192', '104', '179']
+2024-12-27 02:30:06,191 - INFO - Last CO2 Price: 179
+2024-12-27 02:30:06,191 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 03:00:05,446 - INFO - Successfully fetched fuel market page!
+2024-12-27 03:00:05,447 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 03:00:05,447 - INFO - Fuel Prices: ['600', '960', '950', '940', '920', '1400', '1460', '1450', '800', '1180']
+2024-12-27 03:00:05,447 - INFO - Last Fuel Price: 1180
+2024-12-27 03:00:05,513 - INFO - Successfully fetched CO2 market page!
+2024-12-27 03:00:05,513 - INFO - CO2 Prices: ['110', '133', '172', '144', '186', '144', '192', '104', '179', '182']
+2024-12-27 03:00:05,513 - INFO - Last CO2 Price: 182
+2024-12-27 03:00:05,513 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 03:30:05,755 - INFO - Successfully fetched fuel market page!
+2024-12-27 03:30:05,755 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 03:30:05,755 - INFO - Fuel Prices: ['960', '950', '940', '920', '1400', '1460', '1450', '800', '1180', '390']
+2024-12-27 03:30:05,755 - INFO - Last Fuel Price: 390
+2024-12-27 03:30:05,817 - INFO - Message sent successfully!
+2024-12-27 03:30:05,891 - INFO - Successfully fetched CO2 market page!
+2024-12-27 03:30:05,891 - INFO - CO2 Prices: ['133', '172', '144', '186', '144', '192', '104', '179', '182', '117']
+2024-12-27 03:30:05,891 - INFO - Last CO2 Price: 117
+2024-12-27 03:30:05,961 - INFO - Message sent successfully!
+2024-12-27 03:30:05,961 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 04:00:06,243 - INFO - Successfully fetched fuel market page!
+2024-12-27 04:00:06,243 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 04:00:06,243 - INFO - Fuel Prices: ['950', '940', '920', '1400', '1460', '1450', '800', '1180', '390', '1900']
+2024-12-27 04:00:06,243 - INFO - Last Fuel Price: 1900
+2024-12-27 04:00:06,318 - INFO - Successfully fetched CO2 market page!
+2024-12-27 04:00:06,319 - INFO - CO2 Prices: ['172', '144', '186', '144', '192', '104', '179', '182', '117', '182']
+2024-12-27 04:00:06,319 - INFO - Last CO2 Price: 182
+2024-12-27 04:00:06,319 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 04:30:05,604 - INFO - Successfully fetched fuel market page!
+2024-12-27 04:30:05,604 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 04:30:05,604 - INFO - Fuel Prices: ['940', '920', '1400', '1460', '1450', '800', '1180', '390', '1900', '1830']
+2024-12-27 04:30:05,604 - INFO - Last Fuel Price: 1830
+2024-12-27 04:30:05,681 - INFO - Successfully fetched CO2 market page!
+2024-12-27 04:30:05,681 - INFO - CO2 Prices: ['144', '186', '144', '192', '104', '179', '182', '117', '182', '150']
+2024-12-27 04:30:05,681 - INFO - Last CO2 Price: 150
+2024-12-27 04:30:05,681 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 05:00:06,004 - INFO - Successfully fetched fuel market page!
+2024-12-27 05:00:06,004 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 05:00:06,004 - INFO - Fuel Prices: ['920', '1400', '1460', '1450', '800', '1180', '390', '1900', '1830', '1160']
+2024-12-27 05:00:06,004 - INFO - Last Fuel Price: 1160
+2024-12-27 05:00:06,082 - INFO - Successfully fetched CO2 market page!
+2024-12-27 05:00:06,082 - INFO - CO2 Prices: ['186', '144', '192', '104', '179', '182', '117', '182', '150', '180']
+2024-12-27 05:00:06,082 - INFO - Last CO2 Price: 180
+2024-12-27 05:00:06,082 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 05:30:06,342 - INFO - Successfully fetched fuel market page!
+2024-12-27 05:30:06,342 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 05:30:06,342 - INFO - Fuel Prices: ['1400', '1460', '1450', '800', '1180', '390', '1900', '1830', '1160', '1200']
+2024-12-27 05:30:06,342 - INFO - Last Fuel Price: 1200
+2024-12-27 05:30:06,414 - INFO - Successfully fetched CO2 market page!
+2024-12-27 05:30:06,415 - INFO - CO2 Prices: ['144', '192', '104', '179', '182', '117', '182', '150', '180', '121']
+2024-12-27 05:30:06,415 - INFO - Last CO2 Price: 121
+2024-12-27 05:30:06,415 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 06:00:05,712 - INFO - Successfully fetched fuel market page!
+2024-12-27 06:00:05,712 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 06:00:05,712 - INFO - Fuel Prices: ['1460', '1450', '800', '1180', '390', '1900', '1830', '1160', '1200', '940']
+2024-12-27 06:00:05,712 - INFO - Last Fuel Price: 940
+2024-12-27 06:00:05,773 - INFO - Successfully fetched CO2 market page!
+2024-12-27 06:00:05,774 - INFO - CO2 Prices: ['192', '104', '179', '182', '117', '182', '150', '180', '121', '188']
+2024-12-27 06:00:05,774 - INFO - Last CO2 Price: 188
+2024-12-27 06:00:05,774 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 06:30:06,098 - INFO - Successfully fetched fuel market page!
+2024-12-27 06:30:06,099 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 06:30:06,099 - INFO - Fuel Prices: ['1450', '800', '1180', '390', '1900', '1830', '1160', '1200', '940', '1670']
+2024-12-27 06:30:06,099 - INFO - Last Fuel Price: 1670
+2024-12-27 06:30:06,174 - INFO - Successfully fetched CO2 market page!
+2024-12-27 06:30:06,174 - INFO - CO2 Prices: ['104', '179', '182', '117', '182', '150', '180', '121', '188', '186']
+2024-12-27 06:30:06,175 - INFO - Last CO2 Price: 186
+2024-12-27 06:30:06,175 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 07:00:05,483 - INFO - Successfully fetched fuel market page!
+2024-12-27 07:00:05,483 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 07:00:05,483 - INFO - Fuel Prices: ['800', '1180', '390', '1900', '1830', '1160', '1200', '940', '1670', '1440']
+2024-12-27 07:00:05,483 - INFO - Last Fuel Price: 1440
+2024-12-27 07:00:05,556 - INFO - Successfully fetched CO2 market page!
+2024-12-27 07:00:05,556 - INFO - CO2 Prices: ['179', '182', '117', '182', '150', '180', '121', '188', '186', '189']
+2024-12-27 07:00:05,557 - INFO - Last CO2 Price: 189
+2024-12-27 07:00:05,557 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 07:30:05,817 - INFO - Successfully fetched fuel market page!
+2024-12-27 07:30:05,818 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 07:30:05,818 - INFO - Fuel Prices: ['1180', '390', '1900', '1830', '1160', '1200', '940', '1670', '1440', '530']
+2024-12-27 07:30:05,818 - INFO - Last Fuel Price: 530
+2024-12-27 07:30:05,996 - INFO - Successfully fetched CO2 market page!
+2024-12-27 07:30:05,996 - INFO - CO2 Prices: ['182', '117', '182', '150', '180', '121', '188', '186', '189', '125']
+2024-12-27 07:30:05,996 - INFO - Last CO2 Price: 125
+2024-12-27 07:30:05,996 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 08:00:06,334 - INFO - Successfully fetched fuel market page!
+2024-12-27 08:00:06,334 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 08:00:06,334 - INFO - Fuel Prices: ['390', '1900', '1830', '1160', '1200', '940', '1670', '1440', '530', '860']
+2024-12-27 08:00:06,334 - INFO - Last Fuel Price: 860
+2024-12-27 08:00:06,402 - INFO - Successfully fetched CO2 market page!
+2024-12-27 08:00:06,402 - INFO - CO2 Prices: ['117', '182', '150', '180', '121', '188', '186', '189', '125', '128']
+2024-12-27 08:00:06,402 - INFO - Last CO2 Price: 128
+2024-12-27 08:00:06,402 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 08:30:05,665 - INFO - Successfully fetched fuel market page!
+2024-12-27 08:30:05,665 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 08:30:05,665 - INFO - Fuel Prices: ['1900', '1830', '1160', '1200', '940', '1670', '1440', '530', '860', '890']
+2024-12-27 08:30:05,665 - INFO - Last Fuel Price: 890
+2024-12-27 08:30:05,740 - INFO - Successfully fetched CO2 market page!
+2024-12-27 08:30:05,740 - INFO - CO2 Prices: ['182', '150', '180', '121', '188', '186', '189', '125', '128', '134']
+2024-12-27 08:30:05,741 - INFO - Last CO2 Price: 134
+2024-12-27 08:30:05,741 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 09:00:05,981 - INFO - Successfully fetched fuel market page!
+2024-12-27 09:00:05,982 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 09:00:05,982 - INFO - Fuel Prices: ['1830', '1160', '1200', '940', '1670', '1440', '530', '860', '890', '1660']
+2024-12-27 09:00:05,982 - INFO - Last Fuel Price: 1660
+2024-12-27 09:00:06,048 - INFO - Successfully fetched CO2 market page!
+2024-12-27 09:00:06,048 - INFO - CO2 Prices: ['150', '180', '121', '188', '186', '189', '125', '128', '134', '138']
+2024-12-27 09:00:06,048 - INFO - Last CO2 Price: 138
+2024-12-27 09:00:06,048 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 09:30:06,287 - INFO - Successfully fetched fuel market page!
+2024-12-27 09:30:06,287 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 09:30:06,287 - INFO - Fuel Prices: ['1160', '1200', '940', '1670', '1440', '530', '860', '890', '1660', '2320']
+2024-12-27 09:30:06,287 - INFO - Last Fuel Price: 2320
+2024-12-27 09:30:06,349 - INFO - Successfully fetched CO2 market page!
+2024-12-27 09:30:06,349 - INFO - CO2 Prices: ['180', '121', '188', '186', '189', '125', '128', '134', '138', '122']
+2024-12-27 09:30:06,349 - INFO - Last CO2 Price: 122
+2024-12-27 09:30:06,349 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 10:00:05,595 - INFO - Successfully fetched fuel market page!
+2024-12-27 10:00:05,595 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 10:00:05,595 - INFO - Fuel Prices: ['1200', '940', '1670', '1440', '530', '860', '890', '1660', '2320', '1480']
+2024-12-27 10:00:05,595 - INFO - Last Fuel Price: 1480
+2024-12-27 10:00:05,656 - INFO - Successfully fetched CO2 market page!
+2024-12-27 10:00:05,656 - INFO - CO2 Prices: ['121', '188', '186', '189', '125', '128', '134', '138', '122', '186']
+2024-12-27 10:00:05,656 - INFO - Last CO2 Price: 186
+2024-12-27 10:00:05,656 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 10:30:05,910 - INFO - Successfully fetched fuel market page!
+2024-12-27 10:30:05,911 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 10:30:05,911 - INFO - Fuel Prices: ['940', '1670', '1440', '530', '860', '890', '1660', '2320', '1480', '830']
+2024-12-27 10:30:05,911 - INFO - Last Fuel Price: 830
+2024-12-27 10:30:05,980 - INFO - Successfully fetched CO2 market page!
+2024-12-27 10:30:05,980 - INFO - CO2 Prices: ['188', '186', '189', '125', '128', '134', '138', '122', '186', '155']
+2024-12-27 10:30:05,980 - INFO - Last CO2 Price: 155
+2024-12-27 10:30:05,980 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 11:00:06,236 - INFO - Successfully fetched fuel market page!
+2024-12-27 11:00:06,236 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 11:00:06,236 - INFO - Fuel Prices: ['1670', '1440', '530', '860', '890', '1660', '2320', '1480', '830', '1740']
+2024-12-27 11:00:06,236 - INFO - Last Fuel Price: 1740
+2024-12-27 11:00:06,301 - INFO - Successfully fetched CO2 market page!
+2024-12-27 11:00:06,301 - INFO - CO2 Prices: ['186', '189', '125', '128', '134', '138', '122', '186', '155', '162']
+2024-12-27 11:00:06,301 - INFO - Last CO2 Price: 162
+2024-12-27 11:00:06,301 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 11:30:05,521 - INFO - Successfully fetched fuel market page!
+2024-12-27 11:30:05,522 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 11:30:05,522 - INFO - Fuel Prices: ['1440', '530', '860', '890', '1660', '2320', '1480', '830', '1740', '340']
+2024-12-27 11:30:05,522 - INFO - Last Fuel Price: 340
+2024-12-27 11:30:05,577 - INFO - Message sent successfully!
+2024-12-27 11:30:05,639 - INFO - Successfully fetched CO2 market page!
+2024-12-27 11:30:05,639 - INFO - CO2 Prices: ['189', '125', '128', '134', '138', '122', '186', '155', '162', '136']
+2024-12-27 11:30:05,639 - INFO - Last CO2 Price: 136
+2024-12-27 11:30:05,639 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 12:00:05,883 - INFO - Successfully fetched fuel market page!
+2024-12-27 12:00:05,883 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 12:00:05,883 - INFO - Fuel Prices: ['530', '860', '890', '1660', '2320', '1480', '830', '1740', '340', '640']
+2024-12-27 12:00:05,883 - INFO - Last Fuel Price: 640
+2024-12-27 12:00:05,967 - INFO - Successfully fetched CO2 market page!
+2024-12-27 12:00:05,967 - INFO - CO2 Prices: ['125', '128', '134', '138', '122', '186', '155', '162', '136', '100']
+2024-12-27 12:00:05,967 - INFO - Last CO2 Price: 100
+2024-12-27 12:00:06,035 - INFO - Message sent successfully!
+2024-12-27 12:00:06,035 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 12:30:06,272 - INFO - Successfully fetched fuel market page!
+2024-12-27 12:30:06,272 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 12:30:06,272 - INFO - Fuel Prices: ['860', '890', '1660', '2320', '1480', '830', '1740', '340', '640', '590']
+2024-12-27 12:30:06,272 - INFO - Last Fuel Price: 590
+2024-12-27 12:30:06,338 - INFO - Successfully fetched CO2 market page!
+2024-12-27 12:30:06,338 - INFO - CO2 Prices: ['128', '134', '138', '122', '186', '155', '162', '136', '100', '115']
+2024-12-27 12:30:06,338 - INFO - Last CO2 Price: 115
+2024-12-27 12:30:06,419 - INFO - Message sent successfully!
+2024-12-27 12:30:06,420 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 13:00:05,659 - INFO - Successfully fetched fuel market page!
+2024-12-27 13:00:05,659 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 13:00:05,660 - INFO - Fuel Prices: ['890', '1660', '2320', '1480', '830', '1740', '340', '640', '590', '2100']
+2024-12-27 13:00:05,660 - INFO - Last Fuel Price: 2100
+2024-12-27 13:00:05,722 - INFO - Successfully fetched CO2 market page!
+2024-12-27 13:00:05,722 - INFO - CO2 Prices: ['134', '138', '122', '186', '155', '162', '136', '100', '115', '196']
+2024-12-27 13:00:05,722 - INFO - Last CO2 Price: 196
+2024-12-27 13:00:05,722 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 13:30:05,982 - INFO - Successfully fetched fuel market page!
+2024-12-27 13:30:05,982 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 13:30:05,982 - INFO - Fuel Prices: ['1660', '2320', '1480', '830', '1740', '340', '640', '590', '2100', '720']
+2024-12-27 13:30:05,982 - INFO - Last Fuel Price: 720
+2024-12-27 13:30:06,051 - INFO - Successfully fetched CO2 market page!
+2024-12-27 13:30:06,051 - INFO - CO2 Prices: ['138', '122', '186', '155', '162', '136', '100', '115', '196', '154']
+2024-12-27 13:30:06,051 - INFO - Last CO2 Price: 154
+2024-12-27 13:30:06,051 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 14:00:06,309 - INFO - Successfully fetched fuel market page!
+2024-12-27 14:00:06,309 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 14:00:06,309 - INFO - Fuel Prices: ['2320', '1480', '830', '1740', '340', '640', '590', '2100', '720', '1560']
+2024-12-27 14:00:06,309 - INFO - Last Fuel Price: 1560
+2024-12-27 14:00:06,376 - INFO - Successfully fetched CO2 market page!
+2024-12-27 14:00:06,376 - INFO - CO2 Prices: ['122', '186', '155', '162', '136', '100', '115', '196', '154', '137']
+2024-12-27 14:00:06,376 - INFO - Last CO2 Price: 137
+2024-12-27 14:00:06,376 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 14:30:05,676 - INFO - Successfully fetched fuel market page!
+2024-12-27 14:30:05,676 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 14:30:05,676 - INFO - Fuel Prices: ['1480', '830', '1740', '340', '640', '590', '2100', '720', '1560', '2390']
+2024-12-27 14:30:05,676 - INFO - Last Fuel Price: 2390
+2024-12-27 14:30:05,747 - INFO - Successfully fetched CO2 market page!
+2024-12-27 14:30:05,748 - INFO - CO2 Prices: ['186', '155', '162', '136', '100', '115', '196', '154', '137', '150']
+2024-12-27 14:30:05,748 - INFO - Last CO2 Price: 150
+2024-12-27 14:30:05,748 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 15:00:05,991 - INFO - Successfully fetched fuel market page!
+2024-12-27 15:00:05,991 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 15:00:05,991 - INFO - Fuel Prices: ['830', '1740', '340', '640', '590', '2100', '720', '1560', '2390', '650']
+2024-12-27 15:00:05,991 - INFO - Last Fuel Price: 650
+2024-12-27 15:00:06,052 - INFO - Successfully fetched CO2 market page!
+2024-12-27 15:00:06,053 - INFO - CO2 Prices: ['155', '162', '136', '100', '115', '196', '154', '137', '150', '119']
+2024-12-27 15:00:06,053 - INFO - Last CO2 Price: 119
+2024-12-27 15:00:06,112 - INFO - Message sent successfully!
+2024-12-27 15:00:06,112 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 15:30:06,418 - INFO - Successfully fetched fuel market page!
+2024-12-27 15:30:06,418 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 15:30:06,418 - INFO - Fuel Prices: ['1740', '340', '640', '590', '2100', '720', '1560', '2390', '650', '1160']
+2024-12-27 15:30:06,418 - INFO - Last Fuel Price: 1160
+2024-12-27 15:30:06,482 - INFO - Successfully fetched CO2 market page!
+2024-12-27 15:30:06,482 - INFO - CO2 Prices: ['162', '136', '100', '115', '196', '154', '137', '150', '119', '165']
+2024-12-27 15:30:06,482 - INFO - Last CO2 Price: 165
+2024-12-27 15:30:06,482 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 16:00:05,725 - INFO - Successfully fetched fuel market page!
+2024-12-27 16:00:05,726 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 16:00:05,726 - INFO - Fuel Prices: ['340', '640', '590', '2100', '720', '1560', '2390', '650', '1160', '2010']
+2024-12-27 16:00:05,726 - INFO - Last Fuel Price: 2010
+2024-12-27 16:00:05,808 - INFO - Successfully fetched CO2 market page!
+2024-12-27 16:00:05,808 - INFO - CO2 Prices: ['136', '100', '115', '196', '154', '137', '150', '119', '165', '107']
+2024-12-27 16:00:05,808 - INFO - Last CO2 Price: 107
+2024-12-27 16:00:05,881 - INFO - Message sent successfully!
+2024-12-27 16:00:05,881 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 16:30:06,128 - INFO - Successfully fetched fuel market page!
+2024-12-27 16:30:06,128 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 16:30:06,128 - INFO - Fuel Prices: ['640', '590', '2100', '720', '1560', '2390', '650', '1160', '2010', '780']
+2024-12-27 16:30:06,128 - INFO - Last Fuel Price: 780
+2024-12-27 16:30:06,198 - INFO - Successfully fetched CO2 market page!
+2024-12-27 16:30:06,199 - INFO - CO2 Prices: ['100', '115', '196', '154', '137', '150', '119', '165', '107', '123']
+2024-12-27 16:30:06,199 - INFO - Last CO2 Price: 123
+2024-12-27 16:30:06,199 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 17:00:05,478 - INFO - Successfully fetched fuel market page!
+2024-12-27 17:00:05,478 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 17:00:05,479 - INFO - Fuel Prices: ['590', '2100', '720', '1560', '2390', '650', '1160', '2010', '780', '2260']
+2024-12-27 17:00:05,479 - INFO - Last Fuel Price: 2260
+2024-12-27 17:00:05,547 - INFO - Successfully fetched CO2 market page!
+2024-12-27 17:00:05,547 - INFO - CO2 Prices: ['115', '196', '154', '137', '150', '119', '165', '107', '123', '107']
+2024-12-27 17:00:05,547 - INFO - Last CO2 Price: 107
+2024-12-27 17:00:05,616 - INFO - Message sent successfully!
+2024-12-27 17:00:05,616 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 17:30:05,883 - INFO - Successfully fetched fuel market page!
+2024-12-27 17:30:05,883 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 17:30:05,883 - INFO - Fuel Prices: ['2100', '720', '1560', '2390', '650', '1160', '2010', '780', '2260', '1620']
+2024-12-27 17:30:05,883 - INFO - Last Fuel Price: 1620
+2024-12-27 17:30:05,950 - INFO - Successfully fetched CO2 market page!
+2024-12-27 17:30:05,951 - INFO - CO2 Prices: ['196', '154', '137', '150', '119', '165', '107', '123', '107', '143']
+2024-12-27 17:30:05,951 - INFO - Last CO2 Price: 143
+2024-12-27 17:30:05,951 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 18:00:06,220 - INFO - Successfully fetched fuel market page!
+2024-12-27 18:00:06,220 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 18:00:06,220 - INFO - Fuel Prices: ['720', '1560', '2390', '650', '1160', '2010', '780', '2260', '1620', '1140']
+2024-12-27 18:00:06,220 - INFO - Last Fuel Price: 1140
+2024-12-27 18:00:06,293 - INFO - Successfully fetched CO2 market page!
+2024-12-27 18:00:06,293 - INFO - CO2 Prices: ['154', '137', '150', '119', '165', '107', '123', '107', '143', '129']
+2024-12-27 18:00:06,293 - INFO - Last CO2 Price: 129
+2024-12-27 18:00:06,294 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 18:30:05,569 - INFO - Successfully fetched fuel market page!
+2024-12-27 18:30:05,569 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 18:30:05,569 - INFO - Fuel Prices: ['1560', '2390', '650', '1160', '2010', '780', '2260', '1620', '1140', '1240']
+2024-12-27 18:30:05,569 - INFO - Last Fuel Price: 1240
+2024-12-27 18:30:05,644 - INFO - Successfully fetched CO2 market page!
+2024-12-27 18:30:05,644 - INFO - CO2 Prices: ['137', '150', '119', '165', '107', '123', '107', '143', '129', '110']
+2024-12-27 18:30:05,644 - INFO - Last CO2 Price: 110
+2024-12-27 18:30:05,714 - INFO - Message sent successfully!
+2024-12-27 18:30:05,715 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 19:00:06,002 - INFO - Successfully fetched fuel market page!
+2024-12-27 19:00:06,002 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 19:00:06,002 - INFO - Fuel Prices: ['2390', '650', '1160', '2010', '780', '2260', '1620', '1140', '1240', '350']
+2024-12-27 19:00:06,002 - INFO - Last Fuel Price: 350
+2024-12-27 19:00:06,063 - INFO - Message sent successfully!
+2024-12-27 19:00:06,132 - INFO - Successfully fetched CO2 market page!
+2024-12-27 19:00:06,132 - INFO - CO2 Prices: ['150', '119', '165', '107', '123', '107', '143', '129', '110', '127']
+2024-12-27 19:00:06,133 - INFO - Last CO2 Price: 127
+2024-12-27 19:00:06,133 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 19:30:06,365 - INFO - Successfully fetched fuel market page!
+2024-12-27 19:30:06,365 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 19:30:06,365 - INFO - Fuel Prices: ['650', '1160', '2010', '780', '2260', '1620', '1140', '1240', '350', '1500']
+2024-12-27 19:30:06,365 - INFO - Last Fuel Price: 1500
+2024-12-27 19:30:06,424 - INFO - Successfully fetched CO2 market page!
+2024-12-27 19:30:06,424 - INFO - CO2 Prices: ['119', '165', '107', '123', '107', '143', '129', '110', '127', '124']
+2024-12-27 19:30:06,424 - INFO - Last CO2 Price: 124
+2024-12-27 19:30:06,424 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 20:00:05,711 - INFO - Successfully fetched fuel market page!
+2024-12-27 20:00:05,711 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 20:00:05,711 - INFO - Fuel Prices: ['1160', '2010', '780', '2260', '1620', '1140', '1240', '350', '1500', '1200']
+2024-12-27 20:00:05,711 - INFO - Last Fuel Price: 1200
+2024-12-27 20:00:05,783 - INFO - Successfully fetched CO2 market page!
+2024-12-27 20:00:05,783 - INFO - CO2 Prices: ['165', '107', '123', '107', '143', '129', '110', '127', '124', '118']
+2024-12-27 20:00:05,784 - INFO - Last CO2 Price: 118
+2024-12-27 20:00:05,851 - INFO - Message sent successfully!
+2024-12-27 20:00:05,852 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 20:30:06,100 - INFO - Successfully fetched fuel market page!
+2024-12-27 20:30:06,100 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 20:30:06,100 - INFO - Fuel Prices: ['2010', '780', '2260', '1620', '1140', '1240', '350', '1500', '1200', '490']
+2024-12-27 20:30:06,100 - INFO - Last Fuel Price: 490
+2024-12-27 20:30:06,165 - INFO - Message sent successfully!
+2024-12-27 20:30:06,231 - INFO - Successfully fetched CO2 market page!
+2024-12-27 20:30:06,231 - INFO - CO2 Prices: ['107', '123', '107', '143', '129', '110', '127', '124', '118', '136']
+2024-12-27 20:30:06,231 - INFO - Last CO2 Price: 136
+2024-12-27 20:30:06,232 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 21:00:05,470 - INFO - Successfully fetched fuel market page!
+2024-12-27 21:00:05,470 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 21:00:05,470 - INFO - Fuel Prices: ['780', '2260', '1620', '1140', '1240', '350', '1500', '1200', '490', '1940']
+2024-12-27 21:00:05,470 - INFO - Last Fuel Price: 1940
+2024-12-27 21:00:05,541 - INFO - Successfully fetched CO2 market page!
+2024-12-27 21:00:05,541 - INFO - CO2 Prices: ['123', '107', '143', '129', '110', '127', '124', '118', '136', '165']
+2024-12-27 21:00:05,541 - INFO - Last CO2 Price: 165
+2024-12-27 21:00:05,541 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 21:30:05,791 - INFO - Successfully fetched fuel market page!
+2024-12-27 21:30:05,791 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 21:30:05,791 - INFO - Fuel Prices: ['2260', '1620', '1140', '1240', '350', '1500', '1200', '490', '1940', '1360']
+2024-12-27 21:30:05,791 - INFO - Last Fuel Price: 1360
+2024-12-27 21:30:05,854 - INFO - Successfully fetched CO2 market page!
+2024-12-27 21:30:05,854 - INFO - CO2 Prices: ['107', '143', '129', '110', '127', '124', '118', '136', '165', '197']
+2024-12-27 21:30:05,854 - INFO - Last CO2 Price: 197
+2024-12-27 21:30:05,854 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 22:00:06,121 - INFO - Successfully fetched fuel market page!
+2024-12-27 22:00:06,121 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 22:00:06,121 - INFO - Fuel Prices: ['1620', '1140', '1240', '350', '1500', '1200', '490', '1940', '1360', '1240']
+2024-12-27 22:00:06,121 - INFO - Last Fuel Price: 1240
+2024-12-27 22:00:06,195 - INFO - Successfully fetched CO2 market page!
+2024-12-27 22:00:06,195 - INFO - CO2 Prices: ['143', '129', '110', '127', '124', '118', '136', '165', '197', '163']
+2024-12-27 22:00:06,195 - INFO - Last CO2 Price: 163
+2024-12-27 22:00:06,195 - INFO - Sleeping for 1799 seconds until the next refresh...
+2024-12-27 22:30:05,642 - INFO - Successfully fetched fuel market page!
+2024-12-27 22:30:05,642 - INFO - Fuel Timer (seconds): 1795
+2024-12-27 22:30:05,642 - INFO - Fuel Prices: ['1140', '1240', '350', '1500', '1200', '490', '1940', '1360', '1240', '1490']
+2024-12-27 22:30:05,642 - INFO - Last Fuel Price: 1490
+2024-12-27 22:30:05,716 - INFO - Successfully fetched CO2 market page!
+2024-12-27 22:30:05,716 - INFO - CO2 Prices: ['129', '110', '127', '124', '118', '136', '165', '197', '163', '179']
+2024-12-27 22:30:05,716 - INFO - Last CO2 Price: 179
+2024-12-27 22:30:05,716 - INFO - Sleeping for 1800 seconds until the next refresh...
+2024-12-27 23:00:06,190 - INFO - Successfully fetched fuel market page!
+2024-12-27 23:00:06,191 - INFO - Fuel Timer (seconds): 1794
+2024-12-27 23:00:06,191 - INFO - Fuel Prices: ['1240', '350', '1500', '1200', '490', '1940', '1360', '1240', '1490', '1320']
+2024-12-27 23:00:06,191 - INFO - Last Fuel Price: 1320
+2024-12-27 23:00:06,253 - INFO - Successfully fetched CO2 market page!
+2024-12-27 23:00:06,254 - INFO - CO2 Prices: ['110', '127', '124', '118', '136', '165', '197', '163', '179', '100']
+2024-12-27 23:00:06,254 - INFO - Last CO2 Price: 100
+2024-12-27 23:00:06,319 - INFO - Message sent successfully!
+2024-12-27 23:00:06,319 - INFO - Sleeping for 1799 seconds until the next refresh...
